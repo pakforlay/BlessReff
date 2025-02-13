@@ -18,5 +18,6 @@ Semi Automation Create account for Blessnetwork (using gmail dot trick)
 - type " npm install "
 
 ## ⚠️ Note (Read this before u run this tool)
+- If u dont have account, u can regist from my link : [[https://bless.network/dashboard?ref=TCNRAW]](https://bless.network/dashboard?ref=TCNRAW)]
 - This Semi Automation Register Account, so you must input OTP Code from your email
 - using email from gmail cuz this script using gmail dot trick
