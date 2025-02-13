@@ -1,5 +1,5 @@
 # BlessReff
-Semi Automation Create account for Blessnetwork (using gmail dot trick)
+Semi Automation Create account for Bless Network (using gmail dot trick)
 
 <img src="https://i.postimg.cc/Y9Srcmq5/Screenshot-2025-02-13-103433.png"/>
 
